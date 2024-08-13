@@ -1,3 +1,3 @@
-module C:\Users\damat\OneDrive\Área de Trabalho\algoritmo bth\beatrizhash-go-main
+module https://github.com/mbr2024/BEATRIZHASH.GO
 
 go 1.16
