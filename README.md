@@ -30,7 +30,7 @@ Para instalar **BEATRIZHASH-go**, você precisa ter o Go instalado em seu sistem
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/mbr2024/BEATRIZHASH-go.git
+    git clone https://github.com/mbr2024/BEATRIZHASH.GO
     ```
 
 2. Navegue até o diretório do projeto:
